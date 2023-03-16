@@ -11,10 +11,12 @@
 	"dependencies": {
 		"@prisma/client": "3.0.2",
 		"apollo-server": "^3.3.0",
+		"axios": "^0.21.4",
 		"class-validator": "^0.13.1",
 		"faker": "^5.5.3",
 		"graphql-fields": "^2.0.3",
 		"graphql-type-json": "^0.3.2",
+		"lodash": "^4.17.21",
 		"reflect-metadata": "^0.1.13",
 		"type-graphql": "^1.1.1"
 	},
@@ -23,7 +25,7 @@
 		"@types/node": "^16.9.1",
 		"@types/ws": "^7.4.7",
 		"nodemon": "^1.18.10",
-		"prisma": "^3.0.2",
+		"prisma": "3.0.2",
 		"ts-node": "^10.2.1",
 		"ts-node-dev": "^1.1.8",
 		"typegraphql-prisma": "^0.16.0",
